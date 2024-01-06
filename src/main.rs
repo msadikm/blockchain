@@ -1,3 +1,5 @@
 pub mod block;
 
-fn main() {}
+fn main() {
+    println!("h")
+}
